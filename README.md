@@ -19,11 +19,9 @@ Built with **Kotlin**, **CameraX**, and **ML Kit**, this app is fast, private, a
 
 ## 📷 Screenshots
 
-<img width="90" height="200" alt="image" src="https://github.com/user-attachments/assets/f264e44a-fc64-463d-9c1f-0b1f9fb8bd9a" />
-<img width="90" height="200" alt="image" src="https://github.com/user-attachments/assets/17e23860-040a-429b-ac62-0b87b7a111ef" />
-<img width="90" height="200" alt="image" src="https://github.com/user-attachments/assets/3a34a531-1457-4b04-8d27-4c1190aa4308" />
-<img width="90" height="200" alt="image" src="https://github.com/user-attachments/assets/dbaf47c6-ae64-49a5-898c-dd0cea899d95" />
-
+<img width="90" height="200" alt="image" src="https://github.com/user-attachments/assets/65e6ea58-d6a8-4f6e-b9ec-5bb85ebdb1a7" />
+<img width="90" height="200" alt="image" src="https://github.com/user-attachments/assets/878e5f15-d616-4691-901a-ad70685c0288" />
+<img width="90" height="200" alt="image" src="https://github.com/user-attachments/assets/729e00eb-82f7-483e-92a3-687541e664d7" />
 
 ---
 

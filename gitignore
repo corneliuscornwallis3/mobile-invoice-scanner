@@ -1,0 +1,32 @@
+# Android Studio
+.gradle/
+.idea/
+local.properties
+.DS_Store
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.iml
+
+# Keystore files
+*.jks
+*.keystore
+
+# Logs
+*.log
+
+# OS junk files
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Kotlin specific
+*.class
+*.jar
+*.war
+*.ear
+out/
+
+# Unit test files
+test-output/

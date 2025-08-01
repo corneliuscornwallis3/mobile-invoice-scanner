@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+id captureButton
+id dateText
+id previewView
+id scan_button
+id totalText
+id vendorText
+layout activity_camera
+layout activity_main
+layout activity_results
+mipmap ic_launcher
+mipmap ic_launcher_round
